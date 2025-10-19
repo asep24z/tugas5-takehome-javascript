@@ -36,7 +36,7 @@ button {
     transition: background 0.3s ease;
 }
 button:hover {
-    background-color: #e433cf;
+    background-color: #c413af;
 }
 ul {
     list-style-type: none;
