@@ -23,7 +23,6 @@ addButton.addEventListener('click', function() {
     }
 });
 
-// Add task with Enter
 taskInput.addEventListener('keypress', function(e) {
     if (e.key === 'Enter') {
         addButton.click();
